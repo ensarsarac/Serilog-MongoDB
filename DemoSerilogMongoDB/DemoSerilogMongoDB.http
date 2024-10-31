@@ -1,0 +1,6 @@
+@DemoSerilogMongoDB_HostAddress = http://localhost:5169
+
+GET {{DemoSerilogMongoDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
